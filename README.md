@@ -1,19 +1,25 @@
-
+<style>
+h2 { 
+  background-color: #2329d5; 
+  width: 24%;
+  margin-left: 38%;
+  margin-right: 38%;
+  font-size: 53px;
+  padding-top: 30px;
+  padding-bottom: 1px;
+  margin-bottom: 0;
+  line-height: 60px;
+}
+</style>
 <br>
 <br>
 
-<h1 align="center" 
-  style="background-color: #2329d5; 
-    width: 17.5%;
-    margin-left: 41.25%;
-    marign-right: 41.25%;">
-<br>
+<h2 align="center">
+
 🌍
 <br>
 <b>PX</b>
-<br>
-<br>
-</h1>
+</h2>
 
 <br>
 <br>
