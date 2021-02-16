@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css">
 <br>
 <br>
 
-<h2 align="center" class="px">
+<h2 align="center">
 
 🌍
 <br>

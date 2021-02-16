@@ -1,11 +1,11 @@
-.px { 
-  background-color: #2329d5; 
-  width: 24%;
-  margin-left: 38%;
-  margin-right: 38%;
-  font-size: 53px;
-  padding-top: 30px;
-  padding-bottom: 1px;
-  margin-bottom: 0;
-  line-height: 60px;
+h2 { 
+  background-color: #2329d5 !important; 
+  width: 24% !important;
+  margin-left: 38% !important;
+  margin-right: 38% !important;
+  font-size: 53px !important;
+  padding-top: 30px !important;
+  padding-bottom: 1px !important;
+  margin-bottom: 0 !important;
+  line-height: 60px !important;
 }
