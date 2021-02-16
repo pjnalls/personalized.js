@@ -21,3 +21,10 @@ Design for people, not "users", who need their UX personalized — from most bas
 <br>
 <br>
 <hr>
+
+<br>
+
+### **Details coming soon, but you can test the prototype for the *PX footer component* at the bottom of your viewport on my personal site [pjnalls.com](https://pjnalls.com).**
+
+<br>
+<br>
