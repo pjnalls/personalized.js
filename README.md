@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h2 align="center">
+<h2 align="center" class="px">
 
 🌍
 <br>
