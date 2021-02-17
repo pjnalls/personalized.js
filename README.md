@@ -15,7 +15,7 @@
 <br>
 (Development-in-progress) 
 <br><br>
-Design for People, not "users", PX (Personalized Experience) — from most basic, low-fidelity UI to graphically intensive PWAs.
+Design for People, not "users", who need PX (Personalized Experience(s)) on the web — from most basic, low-fidelity UI to graphically intensive PWAs.
 </h3>
 <br>
 <br>
